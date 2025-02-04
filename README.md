@@ -1,8 +1,11 @@
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=reymonddeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Reymond Peña</h1>
+
 
 <h3 align="center">A Passionate Backend Developer from the Philippines</h3>
 
@@ -17,12 +20,12 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **Backend performance optimization, database management, API design, Laravel, and Spring Boot**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ReymondDeveloper)
-- 💬 Ask me about **Java, React, and Spring Boot**
-- 📫 Reach me at **reymond.pena.dev@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/13nelawX0aP0b6vnStSTtIOJJqKsIyhsZ/view?usp=sharing)
-- ⚡ Fun fact: **I get excited when I see clean, well-structured code!**
+- 🌱 Currently enhancing my skills in backend performance optimization, database management, API design, Laravel, and Spring Boot.
+- 👨‍💻 Explore my projects on GitHub.
+- 💬 Feel free to reach out with questions about Java, React, or Spring Boot.
+- 📫 Contact me at reymond.pena.dev@gmail.com.
+- 📄 Interested in my experience? [Check out my resume here.](https://drive.google.com/file/d/13nelawX0aP0b6vnStSTtIOJJqKsIyhsZ/view?usp=sharing)
+- ⚡ Fun fact: I’m passionate about clean, well-structured code and efficient design.
 
 ---
 
