@@ -22,9 +22,9 @@
 
 - 🌱 Currently enhancing my skills in backend performance optimization, database management, API design, Laravel, and Spring Boot.
 - 👨‍💻 Explore my projects on GitHub.
-- 💬 Feel free to reach out with questions about Java, React, or Spring Boot.
+- 💬 Feel free to reach out with questions about Kotlin, Java, React, or Spring Boot.
 - 📫 Contact me at reymond.pena.dev@gmail.com.
-- 📄 Interested in my experience? [Check out my resume here.](https://drive.google.com/file/d/13nelawX0aP0b6vnStSTtIOJJqKsIyhsZ/view?usp=sharing)
+- 📄 Interested in my experience? [Check out my resume here.](https://drive.google.com/file/d/1AxtoEauoxefZrc1Jy5-UPEPmmuAP0fFZ/view?usp=drive_link)
 - ⚡ Fun fact: I’m passionate about clean, well-structured code and efficient design.
 
 ---
